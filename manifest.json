@@ -2,7 +2,7 @@
     "name":"DadJokes",
     "version":"0.0.1",
     "manifest_version":3,
-    "browser_action":{
+    "action":{
         "default_popup": "jokes_popup.html"
     },
     "permissions": ["activeTab"]
